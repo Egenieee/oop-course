@@ -1,6 +1,6 @@
-.DS_Store
-*.iml
-.idea
+src/**/.DS_Store
+src/**/*.iml
+src/**/.idea
 
 # Created by https://www.toptal.com/developers/gitignore/api/intellij,java
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij,java
@@ -58,7 +58,7 @@ cmake-build-*/
 *.iws
 
 # IntelliJ
-out/
+/**/out
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
